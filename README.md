@@ -1,9 +1,9 @@
 # PyTorch course
 
-2019年七月在线PyTorch入门与实战课程
+2019年七月在线PyTorch入门与实战课程笔记
 
-A PyTorch tutorial for Julyedu.com
+讲师：[褚则伟](http://people.cs.uchicago.edu/~zeweichu/)
 
-褚则伟
+PPT与代码已经做过了笔记与整理，非常不错的PyTorch入门资料（视频或许可以在某站找到，但若有条件，还是支持正版）
 
 
